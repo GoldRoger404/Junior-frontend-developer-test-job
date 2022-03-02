@@ -1,3 +1,6 @@
+Ссылка на задеплоенный проект https://junior-frontend-developer-test-job.hostman.site/
+
+
 # planb
 
 ## Build Setup
